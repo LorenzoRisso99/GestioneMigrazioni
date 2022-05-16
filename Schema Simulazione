@@ -1,0 +1,21 @@
+Evento (T, Country, Quan5ita di perosne)
+
+Evento(1, Italia, 1000)
+     500 stanziali in Italia
+     4 confinanti -> 125 persone per stato confonante
+     crea eventi di ingresso
+     
+Evento (2, Francia, 125)
+       62 stanziali in francia
+       62 si dividono in 5 stati confinanti --> 12 per stato (62 diviso 5)
+       ecc....
+
+
+Evemto (2, Sveizzera, 125)
+
+
+Evento (2, Austria, 125)
+
+
+Evento (2, Slovenia, 125)
+     
